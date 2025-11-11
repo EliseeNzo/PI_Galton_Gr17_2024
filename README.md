@@ -2,7 +2,7 @@
 
 This project is a group effort aiming to build an **automated Galton Board**.  
 The system is designed to automatically release balls, detect their path through different channels, and collect statistical data for visualization and analysis.  
-
+![front](front.png)
 ---
 
 ## 📖 Overview
