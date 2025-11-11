@@ -3,11 +3,13 @@
 This project is a group effort aiming to build an **automated Galton Board**.  
 The system is designed to automatically release balls, detect their path through different channels, and collect statistical data for visualization and analysis.
  
-<div style="">
+
   <img src="./front.png" width="200" />
   <img src="./tech.png"  width="300" />
-  <img src="./matplotlib.png" width="300" />
-</div>
+  
+  <img src="./matplotlib.png" width="200" />
+  <img src="./Graph_XL.png" width="200" />
+
 
 
 ---
@@ -61,4 +63,4 @@ The system is designed to automatically release balls, detect their path through
    - Real-time chart updates with Matplotlib  
    - Data logged into CSV for statistical analysis in Excel 
 
-     <img src="./Graph_XL.png" width="300" /> 
+      
